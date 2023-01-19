@@ -1,0 +1,64 @@
+p{
+    font-family: 'Roboto', sans-serif;
+    color:red;
+    width: 400px;
+}
+
+
+h1 {
+    font-family:'Roboto', sans-serif;
+    border: 10px solid rgba(213, 118, 118, 0.453);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    font-weight: bold;
+    color: grey;
+}
+
+h3 {
+    color: blueviolet;
+    border: 10px solid;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-bottom: 40px;
+    padding-left: 200px;
+    padding-right: 20px;
+    padding-top: 40px;
+}
+
+/**
+comentario dentro de css
+*/
+
+section {
+    color: white;
+    border: 20px solid pink;
+    margin-top: 1px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-bottom: 1px;
+    padding-left: 5px;
+    padding-right: 20px;
+    padding-top: 5px;
+  }
+
+  #mi_parrafo {
+    color:darkblue;
+    font-size: 20px;
+    border: 5px solid pink;
+  }
+
+  .clase1 {
+    color:rebeccapurple;
+    font-size: 20px;
+    border: 5px solid pink;
+  }
